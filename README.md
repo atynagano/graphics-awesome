@@ -5,6 +5,7 @@
 
 - [Real-time global illumination by precomputed local reconstruction from sparse radiance probes (2017)](https://dl.acm.org/doi/10.1145/3130800.3130852)
 - [Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting (2020)](https://dl.acm.org/doi/10.1145/3386569.3392481)
+- [Specular manifold sampling for rendering high-frequency caustics and glints (2020)](https://dl.acm.org/doi/abs/10.1145/3386569.3392408)
 
 ## 物理ベースアニメーション
 
